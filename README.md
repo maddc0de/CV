@@ -17,13 +17,13 @@ Junior Software Developer with a solid foundation in JavaScript, Ruby, and basic
 #### Ability to learn
 
 - Actively pursued continuous learning through self-directed study with the MIMO mobile app, online resources, MOOC sprints with Code First Girls, and completion of the intensive and highly regarded Makers' Coding Bootcamp.
-- Demonstrated adaptability during my tenure at Boots by quickly adapting to the implementation of self-checkout tills during the busiest period of the year. Successfully learned how to effectively manage the new tills, ensuring optimal customer service and providing support to fellow staff members.
+- Demonstrated adaptability during my tenure at Boots by quickly adapting to the implementation of self-checkout tills during the busiest period of the year. Learned how to effectively manage the new tills, ensuring optimal customer service and providing support to fellow staff members.
 - Actively seek out opportunities to apply and test my expanding knowledge base. As a Student Ambassador, I leveraged my postgraduate course learnings to support and educate others while honing my ability to effectively communicate complex ideas to diverse audiences. 
 
 #### Team Player
 
-- Successfully collaborated in group projects during the coding bootcamp, actively contributing to Agile teams and showcasing adaptability, effective communication, and a commitment to project success.
-- Thrived in multi-disciplinary and multicultural environments during my studies and one-year exchange program abroad.
+- Successfully collaborated in group projects during the coding bootcamp, actively contributing to Agile teams and showcasing effective communication, and a commitment to project success.
+- Thrived in diverse environments during studies and a year-long exchange program, showcasing the ability to work effectively with individuals from different backgrounds and disciplines. I applied this experience to collaborate effectively with diverse engineering teams during the coding bootcamp.
 - Co-founded and managed a Society during my undergraduate studies: Executed nine main events with more than 50 attendees on the opening event and facilitated collaboration with another society, organizing a friendly sports competition to foster community engagement and inter-society relationships.
 
 #### Adaptability
