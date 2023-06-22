@@ -7,10 +7,10 @@ Junior Software Developer with a solid foundation in JavaScript, Ruby, and basic
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| [Foodshare](https://github.com/maddc0de/foodshare)  | Food waste application - group project  | MERN Stack, Cypress, Jest |
+| [Foodshare](https://github.com/maddc0de/foodshare)  | Food waste application | MERN Stack, Cypress, Jest |
 | [Acebook](https://github.com/maddc0de/acebook)  | Facebook clone - inherited a codebase | MERN Stack, Cypress, Jest, Multer |
-| [Makersbnb](https://github.com/maddc0de/makersbnb)  | Airbnb clone - group project | Ruby, RSpec, PostgreSQL, Sinatra |
-| [Chitter Challenge](https://github.com/maddc0de/chitter-challenge)  | Twitter clone - solo project | Ruby, RSpec, PostgreSQL, Timecop, Sinatra |
+| [Makersbnb](https://github.com/maddc0de/makersbnb)  | Airbnb clone | Ruby, RSpec, PostgreSQL, Sinatra |
+| [Chitter Challenge](https://github.com/maddc0de/chitter-challenge)  | Twitter clone | Ruby, RSpec, PostgreSQL, Timecop, Sinatra |
 | [Website Design System](https://github.com/maddc0de/website-design-system)  | basic design system for a website | HTML, CSS |
 
 
