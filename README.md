@@ -10,7 +10,7 @@ Junior Software Developer with a solid foundation in JavaScript, Ruby, and basic
 | [Foodshare](https://github.com/maddc0de/foodshare)  | Food waste application | MERN Stack, Cypress, Jest |
 | [Acebook](https://github.com/maddc0de/acebook)  | Facebook clone - inherited a codebase | MERN Stack, Cypress, Jest, Multer |
 | [Makersbnb](https://github.com/maddc0de/makersbnb)  | Airbnb clone | Ruby, RSpec, PostgreSQL, Sinatra |
-| [Chitter Challenge](https://github.com/maddc0de/chitter-challenge)  | Twitter clone | Ruby, RSpec, PostgreSQL, Timecop, Sinatra |
+| [Chitter](https://github.com/maddc0de/chitter-challenge)  | Twitter clone | Ruby, RSpec, PostgreSQL, Timecop, Sinatra |
 | [Website Design System](https://github.com/maddc0de/website-design-system)  | basic design system for a website | HTML, CSS |
 
 
@@ -20,12 +20,12 @@ Junior Software Developer with a solid foundation in JavaScript, Ruby, and basic
 
 - Strong commitment to continuous learning, which was evident in my recent completion of an intensive Makers' Coding Bootcamp where I efficiently learned new skills and methodologies. Such as, I engaged in project-based learning that allowed me to acquire proficiency in database management, particularly with PostgreSQL and MongoDB technologies. By actively working on projects and applying database query languages, I gained a deep understanding of their practical applications in data-driven applications. This hands-on experience not only enhanced my ability to handle complex data structures but also solidified my knowledge in database management.
 - Demonstrated adaptability during my tenure at Boots by quickly adapting to the implementation of self-checkout tills during the busiest period of the year. Learned how to effectively manage the new tills, ensuring optimal customer service and providing support to fellow staff members.
-- Actively seek out opportunities to apply and test my expanding knowledge base. As a Student Ambassador, I leveraged my postgraduate course learnings to support and educate others while honing my ability to effectively communicate complex ideas to diverse audiences. 
+- Actively seek out opportunities to apply and test my expanding knowledge base. As a Student Ambassador, I leveraged my postgraduate course learnings to support and educate secondary students whilst honing my ability to effectively communicate complex ideas to diverse audiences. 
 
 #### Team Player
 
 - Demonstrated strong team player skills by effectively collaborating as a valuable member of Agile teams during the coding bootcamp. Showcased effective communication and a commitment to project success by utilising agile best practices including daily stand-ups, retrospectives, and short delivery cycles to foster good communication and ensure efficient teamwork. Additionally, I used digital tools like Miro and Excalidraw to diagram and visually communicate ideas to improve clarity and understanding among team members.
-- Thrived in diverse environments during studies and a year-long exchange program, showcasing the ability to work effectively with individuals from different backgrounds and disciplines. I applied this experience to collaborate effectively with diverse engineering teams during the coding bootcamp.
+- Thrived in diverse environments during studies and a year-long exchange program, showcasing my ability to work effectively with individuals from different backgrounds and disciplines. I applied this experience to collaborate effectively with diverse engineering teams during the coding bootcamp.
 - Co-founded and managed a Society during my undergraduate studies: Executed nine main events with more than 50 attendees on the opening event and facilitated collaboration with another society, organizing a friendly sports competition to foster community engagement and inter-society relationships.
 
 #### Adaptability
@@ -53,7 +53,7 @@ Junior Software Developer with a solid foundation in JavaScript, Ruby, and basic
 - Implemented CRUD application using the MERN stack.
 - Skilled in database management and query languages, in which I successfully executed projects leveraging PostgreSQL and MongoDB technologies, enhancing my ability to handle data-driven applications.
 - Applied debugging processes, identifying and resolving issues to maintain the stability and functionality of the program.
-- Managed poject iterations using Git and GitHub with Bash.
+- Managed project iterations using Git and GitHub with Bash.
 
 **Customer Advisor** (November 2021 - March 2023)  
 _Boots_
