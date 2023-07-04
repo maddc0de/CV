@@ -1,6 +1,6 @@
 ## Madelane Daz
 
-Junior Software Developer with a solid foundation in JavaScript, Ruby, and basic Python. My background in design allows me to approach software development from a user-centric perspective, I strive to understand user needs and contribute to the development of intuitive software solutions. With practical experience in the AGILE methodology, I bring value to project efficiency and quality. I am excited to continue expanding my technical and professional skills in the tech field and to be given an opportunity to bring a unique perspective and valuable contributions to any team or organisation.
+Junior Software Developer with a solid foundation in JavaScript, Ruby, and basic Python. My background in design allows me to approach software development from a user-centric perspective, I strive to understand user needs and contribute to the development of intuitive software solutions. With practical experience in the agile methodology, I bring value to project efficiency and quality. I am excited to continue expanding my technical and professional skills in the tech field and to be given an opportunity to bring a unique perspective and valuable contributions to any team or organisation.
 
 
 ## Projects
