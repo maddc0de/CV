@@ -9,7 +9,7 @@ Junior Software Developer with a solid foundation in JavaScript, Ruby, and basic
 | ---------------------------- | ----------------- | ----------------- |
 | [Foodshare](https://github.com/maddc0de/foodshare)  | Food waste application | MERN Stack, Cypress, Jest |
 | [Acebook](https://github.com/maddc0de/acebook)  | Facebook clone - inherited a codebase | MERN Stack, Cypress, Jest, Multer |
-| [Makersbnb](https://github.com/maddc0de/makersbnb)  | Airbnb clone | Ruby, RSpec, PostgreSQL, Sinatra |
+| [Workout App](https://github.com/maddc0de/workout-app)  | exercise application that utilises APIs to access and display a wide range of exercises. | JavaScript, React, Material-UI, API |
 | [Chitter](https://github.com/maddc0de/chitter-challenge)  | Twitter clone | Ruby, RSpec, PostgreSQL, Timecop, Sinatra |
 | [Website Design System](https://github.com/maddc0de/website-design-system)  | basic design system for a website | HTML, CSS |
 
@@ -47,20 +47,23 @@ Junior Software Developer with a solid foundation in JavaScript, Ruby, and basic
 
 - Collaborated effectively as a valuable member of Agile teams. Utilising agile best practices including daily stand-ups, retrospectives, and short delivery cycles to foster good communication and ensure efficient teamwork.
 - Daily pair-programming in order to problem-solve efficiently and write code collaboratively.
-- Applied TDD methodology to guarantee code functionality, resulting in enhanced code quality and reliability.
+- Familiar in OOP principles in JavaScript - utilised classes and objects to create modular and reusable code.
+- Applied Test-Driven Development (TDD) methodology to guarantee code functionality, resulting in enhanced code quality and reliability. This experience positions me well for implementing Behavior-Driven Development (BDD) as well, as it aligns with my focus on delivering high-quality, user-centric solutions.
 - Proficient in implementing efficient web routes using a lightweight framework and understanding HTTP requests/responses for effective client-server communication in web applications.
 - Participated in code reviews, where fellow peers and coaches reviewed and provided feedback on my written code.
-- Implemented CRUD application using the MERN stack.
+- Designed and implemented a scalable CRUD application using the MERN stack.
 - Skilled in database management and query languages, in which I successfully executed projects leveraging PostgreSQL and MongoDB technologies, enhancing my ability to handle data-driven applications.
 - Applied debugging processes, identifying and resolving issues to maintain the stability and functionality of the program.
-- Managed project iterations using Git and GitHub with Bash.
+- Managed code versioning with Git and GitHub.
+
 
 **Customer Advisor** (November 2021 - March 2023)  
 _Boots_
 
 - Executed store operations by optimising Model Day process and using Omni-channel tools which contributed to the enhancement of customers' shopping experience
 - Quickly grasped the operation of new systems, including self-checkout tills during the busiest period of the year - ensuring optimal customer service and providing support to team members.
-- Proactively took the initiative to stay on top of workflow whilst maintaining high energy and utilising strong communication skills to enhance sales and customer satisfaction.
+- Proactively took the initiative to stay on top of workflow whilst maintaining high energy and utilising strong communication skills to meet and exceed customer requirements and needs.
+
 
 **Carer** (March 2020 - July 2021)  
 
@@ -91,7 +94,7 @@ _Manchester Metropolitan University_
 - Proficient in visual communication and presentation of design ideas through manual drafting, technical drawings, model-making, and CAD software, showcasing strong attention to detail and ability to convey concepts.
 - Demonstrated a holistic approach to problem-solving by applying building technology knowledge to design projects, considering factors such as structure, building regulations, material selection, interior environment and user comfort.
 - Collaborated with students from TEI Athens, in Greece on a Mapping of Space project.
-- Attained 1st on Dissertation: "How significant is the role of sound, as shaped by architecture, in experiencing space?" highlighting research skills, critical thinking, and the ability to explore complex concepts.
+- Attained 1st on Dissertation: "How significant is the role of sound, as shaped by architecture, in experiencing space?" highlighting research skills, critical thinking, and the ability to explore and communicate complex concepts.
 
 ### Ritsumeikan Asia Pacific University (September 2017 - June 2018)
 #### College of Asia Pacific Studies: Exchange Programme
