@@ -44,7 +44,8 @@ Junior Software Developer with a solid foundation in JavaScript, Ruby, and basic
 ## Experience
 
 **Makers Academy** (November 2021 - March 2023)
-16-week immersive Software Development Bootcamp that closely emulated a real-world Agile work setting, providing me with an experience that surpassed a standard course curriculum. [click here](https://github.com/maddc0de/learning-journey-at-makers/blob/main/README.md) to know more about my learning journey with Makers:
+
+16-week immersive Software Development Bootcamp that closely emulated a real-world Agile work setting, providing me with an experience that surpassed a standard course curriculum. [Click here](https://github.com/maddc0de/learning-journey-at-makers/blob/main/README.md) to know more about my learning journey with Makers:
 
 - Collaborated effectively as a valuable member of Agile teams. Utilising agile best practices including daily stand-ups, retrospectives, and short delivery cycles to foster good communication and ensure efficient teamwork.
 - Daily pair-programming in order to problem-solve efficiently and write code collaboratively.
