@@ -7,7 +7,7 @@ I am a Software Developer Graduate proficient in JavaScript and Ruby, eager to c
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| [My Portfolio](https://github.com/maddc0de/portfolio)  | Develop my personal website to explore new technologies and enhance existing skills | React, Threejs, Tailwindcss, emailjs |
+| [My Portfolio](https://github.com/maddc0de/portfolio)  | Developed my personal website to explore new technologies and enhance existing skills | React, Threejs, Tailwindcss, emailjs |
 | [Exercise Trove](https://github.com/maddc0de/exercise-trove)  | A web platform that utilises APIs to access and display a collection of exercises. | JavaScript, React, Material-UI, APIs |
 | [Foodshare](https://github.com/maddc0de/foodshare)  | Food waste application that acts as an intermediary between food banks and local food businesses | MERN (MongoDB, Express, React, Nodejs), Cypress, Jest, Bootstrap, JSON Web Token (JWT) |
 | [Acebook](https://github.com/maddc0de/acebook)  | Facebook clone - worked on a legacy codebase | MERN Stack, Cypress, Jest, JWT, Multer |
