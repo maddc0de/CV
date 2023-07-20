@@ -1,27 +1,26 @@
 ## Madelane Daz
-[Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Hobbies](#hobbies)
+[Projects](#projects) | [Soft Skills](#soft-skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies)
 
-Junior Software Developer with a solid foundation in JavaScript, Ruby, and basic Python. My background in design allows me to approach software development from a user-centric perspective, I strive to understand user needs and contribute to the development of intuitive software solutions. With practical experience in the agile methodology, I bring value to project efficiency and quality. I am excited to continue expanding my technical and professional skills in the tech field and to be given an opportunity to bring a unique perspective and valuable contributions to any team or organisation.
-
+I am a Software Developer Graduate proficient in JavaScript and Ruby, eager to continuously learn and master new technologies. My background in design allows me to approach software development from a user-centric perspective. I strive to understand user needs and contribute to developing intuitive software solutions. With practical experience in agile methodology, I bring value to project efficiency and quality. I am excited to continue expanding my technical and professional skills in the tech field and to be given an opportunity to bring a unique perspective and valuable contributions to any team or organisation.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| [Foodshare](https://github.com/maddc0de/foodshare)  | Food waste application | MERN Stack, Cypress, Jest |
-| [Acebook](https://github.com/maddc0de/acebook)  | Facebook clone - inherited a codebase | MERN Stack, Cypress, Jest, Multer |
-| [Workout App](https://github.com/maddc0de/workout-app)  | exercise application that utilises APIs to access and display a wide range of exercises. | JavaScript, React, Material-UI, API |
-| [Chitter](https://github.com/maddc0de/chitter-challenge)  | Twitter clone | Ruby, RSpec, PostgreSQL, Timecop, Sinatra |
-| [Website Design System](https://github.com/maddc0de/website-design-system)  | basic design system for a website | HTML, CSS |
+| [My Portfolio](https://github.com/maddc0de/portfolio)  | Develop my personal website to explore new technologies and enhance existing skills | React, Threejs, Tailwindcss, emailjs |
+| [Exercise Trove](https://github.com/maddc0de/exercise-trove)  | A web platform that utilises APIs to access and display a collection of exercises. | JavaScript, React, Material-UI, APIs |
+| [Foodshare](https://github.com/maddc0de/foodshare)  | Food waste application that acts as an intermediary between food banks and local food businesses | MERN (MongoDB, Express, React, Nodejs), Cypress, Jest, Bootstrap, JSON Web Token (JWT) |
+| [Acebook](https://github.com/maddc0de/acebook)  | Facebook clone - worked on a legacy codebase | MERN Stack, Cypress, Jest, JWT, Multer |
+| [Chitter](https://github.com/maddc0de/chitter-challenge)  | lightweight Twitter clone with user authentication | Ruby, RSpec, PostgreSQL, Timecop, Sinatra |
+| [Website Design System](https://github.com/maddc0de/website-design-system)  | A responsive website developed using pure HTML and CSS | HTML, CSS |
 
-
-## Skills
+## Soft Skills
 
 #### Ability to learn
 
-- Strong commitment to continuous learning, which was evident in my recent completion of an intensive Makers' Coding Bootcamp where I efficiently learned new skills and methodologies. Such as, I engaged in project-based learning that allowed me to acquire proficiency in database management, particularly with PostgreSQL and MongoDB technologies. By actively working on projects and applying database query languages, I gained a deep understanding of their practical applications in data-driven applications. This hands-on experience not only enhanced my ability to handle complex data structures but also solidified my knowledge in database management.
-- Demonstrated adaptability during my tenure at Boots by quickly adapting to the implementation of self-checkout tills during the busiest period of the year. Learned how to effectively manage the new tills, ensuring optimal customer service and providing support to fellow staff members.
-- Actively seek out opportunities to apply and test my expanding knowledge base. As a Student Ambassador, I leveraged my postgraduate course learnings to support and educate secondary students whilst honing my ability to effectively communicate complex ideas to diverse audiences. 
+- Strong commitment to continuous learning, evident in my recent completion of an intensive Makers' Coding Bootcamp where I efficiently learned new skills and methodologies. Such as, I engaged in project-based learning that allowed me to acquire proficiency in database management, particularly with PostgreSQL and MongoDB technologies. By actively working on projects and applying database query languages, I gained a deep understanding of their practical applications in data-driven applications. This hands-on experience not only enhanced my ability to handle complex data structures but also solidified my knowledge of database management.
+- Demonstrated adaptability during my tenure at Boots by quickly adapting to the implementation of self-checkout tills during the busiest period of the year. Learned how to effectively manage the new tills, ensuring optimal customer service and supporting fellow staff members.
+- Actively seek out opportunities to apply and test my expanding knowledge base. As a Student Ambassador, I leveraged my postgraduate course learnings to support and educate secondary students whilst honing my ability to communicate complex ideas to diverse audiences effectively. 
 
 #### Team Player
 
@@ -31,25 +30,25 @@ Junior Software Developer with a solid foundation in JavaScript, Ruby, and basic
 
 #### Adaptability
 
-- Completed a transformative one-year exchange program in Japan. Adapted to a new culture and language, which is similar to the process of acquiring technical skills in software development.
+- Completed a transformative one-year exchange program in Japan where I adapted to a new culture and language, which is similar to the process of acquiring technical skills in software development.
 - Transitioned from a design-focused background to a more technical course in Industrial Digitalisation and the intensive Makers' coding bootcamp.
-- Caregiving during Covid times, pivoted and took on the responsibility of caring for my medically ill grandmother full time which has required me to handle stressful situations and find creative solutions to unexpected challenges.
+- Caregiving during Covid times, pivoted and took on the responsibility of caring for my medically ill grandmother full time, which required me to handle stressful situations and find creative solutions to unexpected challenges.
 
 #### User-focused approach
 
 - Leveraged my design background to prioritise user needs and specifications when solving problems, applying the principles of human-centred design. I understand that the user is at the centre of every product, and my approach to problem-solving reflects this mindset.
 - Demonstrated a strong commitment to customer satisfaction through over 4 years of experience providing exceptional and consistent customer service within the retail industry. Consistently met and exceeded customer expectations.
 
+## Education
 
-## Experience
-
-**Makers Academy** (November 2021 - March 2023)
+### Makers Academy (February 2023 - June 2023)
+#### Software Development Bootcamp
 
 16-week immersive Software Development Bootcamp that closely emulated a real-world Agile work setting, providing me with an experience that surpassed a standard course curriculum. [Click here](https://github.com/maddc0de/learning-journey-at-makers/blob/main/README.md) to know more about my learning journey with Makers:
 
 - Collaborated effectively as a valuable member of Agile teams. Utilising agile best practices including daily stand-ups, retrospectives, and short delivery cycles to foster good communication and ensure efficient teamwork.
-- Daily pair-programming in order to problem-solve efficiently and write code collaboratively.
-- Familiar in OOP principles in JavaScript - utilised classes and objects to create modular and reusable code.
+- Daily pair programming in order to problem-solve efficiently and write code collaboratively.
+- Familiar with OOP principles in JavaScript - utilised classes and objects to create modular and reusable code.
 - Applied Test-Driven Development (TDD) methodology to guarantee code functionality, resulting in enhanced code quality and reliability. This experience positions me well for implementing Behavior-Driven Development (BDD) as well, as it aligns with my focus on delivering high-quality, user-centric solutions.
 - Proficient in implementing efficient web routes using a lightweight framework and understanding HTTP requests/responses for effective client-server communication in web applications.
 - Participated in code reviews, where fellow peers and coaches reviewed and provided feedback on my written code.
@@ -57,30 +56,6 @@ Junior Software Developer with a solid foundation in JavaScript, Ruby, and basic
 - Skilled in database management and query languages, in which I successfully executed projects leveraging PostgreSQL and MongoDB technologies, enhancing my ability to handle data-driven applications.
 - Applied debugging processes, identifying and resolving issues to maintain the stability and functionality of the program.
 - Managed code versioning with Git and GitHub.
-
-
-**Customer Advisor** (November 2021 - March 2023)  
-_Boots_
-
-- Executed store operations by optimising Model Day process and using Omni-channel tools which contributed to the enhancement of customers' shopping experience
-- Quickly grasped the operation of new systems, including self-checkout tills during the busiest period of the year - ensuring optimal customer service and providing support to team members.
-- Proactively took the initiative to stay on top of workflow whilst maintaining high energy and utilising strong communication skills to meet and exceed customer requirements and needs.
-
-
-**Carer** (March 2020 - July 2021)  
-
-- Transitioned into the role of a full-time carer for my medically ill grandmother during the Covid pandemic. Handled stressful situations and unexpected challenges with determination and perseverance such as adjusting my communication style to effectively engage with her and find solutions to address her specific needs.
-- Sought out and implemented strategies to help slow down my grandmother's dementia, creating activities tailored to her abilities and interests.
-- Provided emotional support whenever needed, showing patience and care in difficult moments. Always ready to face and resolve any problems that arose along the way.
-
-**Fusion 360 and 3D Print Ambassador** (November 2019 - March 2020)  
-_Manchester Metropolitan University_
-
-- Eagerly applied the knowledge and skills acquired during my postgraduate course to support and share the knowledge to secondary students regarding Autodesk Fusion 360 software and Additive Manufacturing.
-- Actively engaged in supporting taught sessions and ensured that I was prepared and available to address any concerns or questions that arose during the sessions.
-
-
-## Education
 
 ### Manchester Metropolitan University (September 2019 - June 2020)
 #### Industrial Digitalisation: PGCert, Distinction
@@ -104,8 +79,29 @@ _Manchester Metropolitan University_
 - Cultivated a multi-perspective understanding through a diverse academic background encompassing Language and History, Tourism, Japanese Traditional Arts, and Japanese Language Foundation I & II. This diverse foundation translates effectively to software development, enabling me to assess user requirements from multiple angles.
 - Demonstrated exceptional skills in community engagement, cultural appreciation, and teamwork as a university representative, by contributing and actively participating in various societies and events such as Taekwondo performances, Oceania Week Grand Show, and a Festival Parade, fostering collaboration, and achieving shared goals through strong interpersonal communication and cooperation.
 
-### Havering Sixth Form (September 2013 - June 2015)
-#### 3D Design, Fine Art, Mathematics: A-levels
+
+## Experience
+
+**Customer Advisor** (November 2021 - March 2023)  
+_Boots_
+
+- Executed store operations by optimising Model Day process and using Omni-channel tools which contributed to the enhancement of customers' shopping experience
+- Quickly grasped the operation of new systems, including self-checkout tills during the busiest period of the year - ensuring optimal customer service and providing support to team members.
+- Proactively took the initiative to stay on top of workflow whilst maintaining high energy and utilising strong communication skills to meet and exceed customer requirements and needs.
+
+
+**Carer** (March 2020 - July 2021)  
+
+- Transitioned into the role of a full-time carer for my grandmother who has Alzheimer's. Handled stressful situations and unexpected challenges with determination and perseverance such as adjusting my communication style to effectively engage with her and find solutions to address her specific needs.
+- Sought out and implemented strategies to help slow down my grandmother's dementia, creating activities tailored to her abilities and interests.
+- Provided emotional support whenever needed, showing patience and care in difficult moments. Always ready to face and resolve any problems that arose along the way.
+
+**Fusion 360 and 3D Print Ambassador** (November 2019 - March 2020)  
+_Manchester Metropolitan University_
+
+- Eagerly applied the knowledge and skills acquired during my postgraduate course to support and share the knowledge to secondary students regarding Autodesk Fusion 360 software and Additive Manufacturing.
+- Actively engaged in supporting taught sessions and ensured that I was prepared and available to address any concerns or questions that arose during the sessions.
+
 
 
 ## Hobbies
