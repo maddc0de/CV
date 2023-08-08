@@ -1,7 +1,7 @@
 ## Madelane Daz
 [Projects](#projects) | [Soft Skills](#soft-skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies)
 
-I am a Software Developer Graduate proficient in JavaScript and Ruby, eager to continuously learn and master new technologies. My background in design allows me to approach software development from a user-centric perspective. I strive to understand user needs and contribute to developing intuitive software solutions. With practical experience in agile methodology, I bring value to project efficiency and quality. I am excited to continue expanding my technical and professional skills in the tech field and to be given an opportunity to bring a unique perspective and valuable contributions to any team or organisation.
+I am a recent Graduate with Makers, proficient in JavaScript and Ruby, and eager to continuously learn and master new technologies. My background in design allows me to approach software development from a user-centric perspective. I strive to understand user needs and contribute to developing intuitive software solutions. With practical experience in agile methodology, I bring value to project efficiency and quality. I am excited to continue expanding my technical and professional skills in the tech field and to be given an opportunity to bring a unique perspective and valuable contributions to any team or organisation.
 
 ## Projects
 
@@ -46,22 +46,23 @@ I am a Software Developer Graduate proficient in JavaScript and Ruby, eager to c
 
 16-week immersive Software Development Bootcamp that closely emulated a real-world Agile work setting, providing me with an experience that surpassed a standard course curriculum. [Click here](https://github.com/maddc0de/learning-journey-at-makers/blob/main/README.md) to know more about my learning journey with Makers:
 
-- Collaborated effectively as a valuable member of Agile teams. Utilising agile best practices including daily stand-ups, retrospectives, and short delivery cycles to foster good communication and ensure efficient teamwork.
+- 16-week Software Development Bootcamp where I brought mockups to life in code and effectively worked in Agile and Waterfall environments, participating as both an independent contributor and a collaborative team member.
+- Drove personal growth by tracking and documenting skill development and learning. [Click here to see more](https://github.com/maddc0de/learning-journey-at-makers/blob/main/README.md)
 - Daily pair programming in order to problem-solve efficiently and write code collaboratively.
-- Familiar with OOP principles in JavaScript - utilised classes and objects to create modular and reusable code.
-- Applied Test-Driven Development (TDD) methodology to guarantee code functionality, resulting in enhanced code quality and reliability. This experience positions me well for implementing Behavior-Driven Development (BDD) as well, as it aligns with my focus on delivering high-quality, user-centric solutions.
+- Applied Test-Driven Development (TDD) to write unit and integrated tests, utilising techniques like mocking API calls and user input to write fully isolated tests, resulting in higher code quality and improved reliability.
+- Familiar with OOP and SOLID principles in JavaScript, utilised classes and objects to create modular and clean code.
 - Proficient in implementing efficient web routes using a lightweight framework and understanding HTTP requests/responses for effective client-server communication in web applications.
-- Participated in code reviews, where fellow peers and coaches reviewed and provided feedback on my written code.
-- Designed and implemented a scalable CRUD application using the MERN stack.
+- Delivered high-quality work by actively participating in code reviews, incorporating feedback from peers and coaches to refine and improve written code.
 - Skilled in database management and query languages, in which I successfully executed projects leveraging PostgreSQL and MongoDB technologies, enhancing my ability to handle data-driven applications.
-- Applied debugging processes, identifying and resolving issues to maintain the stability and functionality of the program.
-- Managed code versioning with Git and GitHub.
+- Applied effective debugging processes, identifying and fixing programs to maintain stability and functionality.
+- Experienced in collaborative code management using Git & Github for version control.
+
 
 ### Manchester Metropolitan University (September 2019 - June 2020)
 #### Industrial Digitalisation: PGCert, Distinction
 
 - Embraced a "fail fast, fail often" approach in CAD modelling and product design, leveraging failures as constructive learning experiences to drive successful outcomes and product improvements.
-- Employed generative design, 3D scanners, and virtual reality tools to gain firsthand experience in the wider digital realm, expanding proficiency in harnessing cutting-edge technologies for innovative solutions
+- Employed generative design, 3D scanners, and virtual reality tools to gain firsthand experience in the wider digital realm, expanding proficiency in harnessing cutting-edge technologies for innovative solutions.
 - Gained insight into how a technical organisation integrated digital technologies into their business through a case study: Identified challenges and opportunities for implementing new technologies.
 - Management of Projects Professional Practice - learnt fundamentals of project management through a live case study.
 
@@ -76,8 +77,9 @@ I am a Software Developer Graduate proficient in JavaScript and Ruby, eager to c
 ### Ritsumeikan Asia Pacific University (September 2017 - June 2018)
 #### College of Asia Pacific Studies: Exchange Programme
 
-- Cultivated a multi-perspective understanding through a diverse academic background encompassing Language and History, Tourism, Japanese Traditional Arts, and Japanese Language Foundation I & II. This diverse foundation translates effectively to software development, enabling me to assess user requirements from multiple angles.
-- Demonstrated exceptional skills in community engagement, cultural appreciation, and teamwork as a university representative, by contributing and actively participating in various societies and events such as Taekwondo performances, Oceania Week Grand Show, and a Festival Parade, fostering collaboration, and achieving shared goals through strong interpersonal communication and cooperation.
+- Cultivated a rich, multi-perspective understanding through diverse academic pursuits encompassing Language & History, Tourism, Japanese Traditional Arts, and Japanese Language Foundation I & II.
+- Showcased outstanding community engagement and teamwork as a university representative. Contributed actively to events like Taekwondo performances, Oceania Week Grand Show, and a Festival Parade, driving collaboration and achieving shared goals through strong interpersonal communication and cooperation.
+
 
 
 ## Experience
@@ -85,26 +87,22 @@ I am a Software Developer Graduate proficient in JavaScript and Ruby, eager to c
 **Customer Advisor** (November 2021 - March 2023)  
 _Boots_
 
-- Executed store operations by optimising Model Day process and using Omni-channel tools which contributed to the enhancement of customers' shopping experience
-- Quickly grasped the operation of new systems, including self-checkout tills during the busiest period of the year - ensuring optimal customer service and providing support to team members.
+- Executed store operations by optimising Model Day process and use of Omni-channel tools, elevating the shopping journey for customers. Additionally, adapted to new systems, notably self-checkout tills during peak seasons, ensuring high-quality customer service and assisting fellow team members.
 - Proactively took the initiative to stay on top of workflow whilst maintaining high energy and utilising strong communication skills to meet and exceed customer requirements and needs.
 
 
 **Carer** (March 2020 - July 2021)  
 
-- Transitioned into the role of a full-time carer for my grandmother who has Alzheimer's. Handled stressful situations and unexpected challenges with determination and perseverance such as adjusting my communication style to effectively engage with her and find solutions to address her specific needs.
-- Sought out and implemented strategies to help slow down my grandmother's dementia, creating activities tailored to her abilities and interests.
-- Provided emotional support whenever needed, showing patience and care in difficult moments. Always ready to face and resolve any problems that arose along the way.
+- Embraced the responsibility of being a full-time carer for my grandmother. Handled unexpected challenges with determination, adjusting my communication to effectively engage and cater to her needs. Notably, I sought out ways to mitigate the progression of her dementia, creating activities that aligned with her abilities and interests.
 
 **Fusion 360 and 3D Print Ambassador** (November 2019 - March 2020)  
 _Manchester Metropolitan University_
 
-- Eagerly applied the knowledge and skills acquired during my postgraduate course to support and share the knowledge to secondary students regarding Autodesk Fusion 360 software and Additive Manufacturing.
-- Actively engaged in supporting taught sessions and ensured that I was prepared and available to address any concerns or questions that arose during the sessions.
+- Eagerly applied my postgraduate knowledge to support and educate secondary students about Autodesk Fusion 360 and Additive Manufacturing. Through proactive teaching assistance and clear communication, I conveyed complex ideas with genuine enthusiasm, showcasing a passion for learning and sharing.
 
 
 
 ## Hobbies
 
-- cooking and baking - I have an Instagram account documenting recipes and plant-based alternatives.
+- cooking and baking - Documented recipes and plant-based alternatives.
 - lifting weights and yoga - I find joy in being able to set goals and keep track of my progress.
