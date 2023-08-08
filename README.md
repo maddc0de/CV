@@ -44,8 +44,6 @@ I am a recent Graduate with Makers, proficient in JavaScript and Ruby, and eager
 ### Makers Academy (February 2023 - June 2023)
 #### Software Development Bootcamp
 
-16-week immersive Software Development Bootcamp that closely emulated a real-world Agile work setting, providing me with an experience that surpassed a standard course curriculum. [Click here](https://github.com/maddc0de/learning-journey-at-makers/blob/main/README.md) to know more about my learning journey with Makers:
-
 - 16-week Software Development Bootcamp where I brought mockups to life in code and effectively worked in Agile and Waterfall environments, participating as both an independent contributor and a collaborative team member.
 - Drove personal growth by tracking and documenting skill development and learning. [Click here to see more](https://github.com/maddc0de/learning-journey-at-makers/blob/main/README.md)
 - Daily pair programming in order to problem-solve efficiently and write code collaboratively.
