@@ -45,7 +45,6 @@ I am a recent Graduate with Makers, proficient in JavaScript and Ruby, and eager
 #### Software Development Bootcamp
 
 - 16-week Software Development Bootcamp where I brought mockups to life in code and effectively worked in Agile and Waterfall environments, participating as both an independent contributor and a collaborative team member.
-- Drove personal growth by tracking and documenting skill development and learning. [Click here to see more](https://github.com/maddc0de/learning-journey-at-makers/blob/main/README.md)
 - Daily pair programming in order to problem-solve efficiently and write code collaboratively.
 - Applied Test-Driven Development (TDD) to write unit and integrated tests, utilising techniques like mocking API calls and user input to write fully isolated tests, resulting in higher code quality and improved reliability.
 - Familiar with OOP and SOLID principles in JavaScript, utilised classes and objects to create modular and clean code.
